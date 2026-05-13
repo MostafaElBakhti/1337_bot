@@ -28,8 +28,8 @@ Automatically monitors the [1337.ma](https://admission.1337.ma/candidature/check
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MostafaElBakhti/1337_bot_bot.git
-cd 1337_bot_bot
+git clone https://github.com/MostafaElBakhti/1337_bot.git
+cd 1337_bot
 ```
 
 
