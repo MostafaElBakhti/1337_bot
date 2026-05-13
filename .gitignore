@@ -1,0 +1,9 @@
+venv/
+1337_profile/
+pw-profile/
+screenshots/
+__pycache__/
+*.pyc
+.env
+last_dom_state.json
+.mypy_cache/
