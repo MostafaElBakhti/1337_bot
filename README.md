@@ -28,9 +28,10 @@ Automatically monitors the [1337.ma](https://admission.1337.ma/candidature/check
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/MostafaElBakhti/ta3sa_bot.git
-cd ta3sa_bot
+git clone https://github.com/MostafaElBakhti/1337_bot_bot.git
+cd 1337_bot_bot
 ```
+
 
 ### 2. Create and activate a virtual environment
 
@@ -80,7 +81,7 @@ DISCORD_WEBHOOK=https://discord.com/api/webhooks/...
 ## Running
 
 ```bash
-python ta3sa.py
+python 1337_bot.py
 ```
 
 On first run, Chrome opens and navigates to the check-in page. If a login or Cloudflare challenge appears, **complete it manually** in the browser. Once you see the normal check-in page, switch back to the terminal and press **ENTER** to start monitoring.
@@ -91,7 +92,7 @@ From that point on the bot runs silently, printing a one-line status after each 
 
 ## Configuration options
 
-All tunable constants are at the top of `ta3sa.py`:
+All tunable constants are at the top of `1337_bot.py`:
 
 | Variable | Default | Description |
 |---|---|---|
